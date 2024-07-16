@@ -24,3 +24,4 @@ elseif media >= 7 then
 else
 	print(string.format("Reprovado com média %.2f.", media))
 end
+
